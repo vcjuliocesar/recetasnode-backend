@@ -1,0 +1,20 @@
+{
+  "name": "recetasnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcjuliocesar/recetasnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcjuliocesar/recetasnode/issues"
+  },
+  "homepage": "https://github.com/vcjuliocesar/recetasnode#readme"
+}
